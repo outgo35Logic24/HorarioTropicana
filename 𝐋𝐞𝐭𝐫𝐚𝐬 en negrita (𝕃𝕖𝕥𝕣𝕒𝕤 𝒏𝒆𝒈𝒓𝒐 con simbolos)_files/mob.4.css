@@ -1,0 +1,103 @@
+#wn{width:92px}#mc{background-position:-92px -0px;width:82px}#tux{width:105px;background-position:-175px -0px}#an{width:85px;background-position:-280px -0px}#ht{width:72px;background-position:-365px -0px}#answered_questions_wrap{width:100%;margin:0 auto;text-align:left;clear:both}#answered_header {color:#58b6cd;font-size:26px;margin:0;line-height:1;background:none repeat scroll 0 0 #aaf0ff;padding:6px 9px 7px;text-shadow:0 1px 0 #e6ffff;border-radius:6px}#answers_container{background:#aaf0ff;border:2px solid #8fdfef;border-radius:13px}.says {background-color:#fff;padding:0px 16px 21px;border:solid 1px #e1eff4;position:relative;border-radius:6px}.says_text {background-repeat:no-repeat;margin:-18px 0 0 75px;display:block;padding:0 0 0 13px}.comment_statement,.question_statement,.answer_statement {display:block;width:68px;height:17px;text-align:center;margin-top:16px;color:#6faecb;background:#fff;border:solid 1px #b5d5e2;box-shadow:0px 1px 3px #b5d5e2;border-radius:6px;background:-webkit-gradient(linear,left top,left bottom,color-stop(0.15,#fff),color-stop(0.87,#effaff))}.answerer{border-color:#bbb}.asker{border-color:#f2f2f2;color:#333}.answer_statement{background:#5bb4d9;background:-webkit-gradient(linear,left top,left bottom,color-stop(0.15,#73ccf2),color-stop(0.87,#5bb4d9));color:#fff}#formbox{margin:26px 0 0 0}#comments{margin:0 13px}#fixed_bookmark{display:none !important}.a_block{display:none}.art_ad{display:none;opacity:1;background:-webkit-linear-gradient(top,hsl(0,0%,97%) 0%,hsl(0,0%,90%) 100%);color:black !important;box-shadow:0 1px 4px hsla(207,100%,0%,0.4) !important;border-radius:13px;margin:6px 0 !important;padding:6px;box-sizing:border-box !important}.more_small{opacity:1;font-size:13px;padding:6px 13px;clear:both;text-shadow:none;box-shadow:0 1px 4px hsla(207,100%,0%,0.5) !important;border-radius:30px;background:black !important;color:white !important;text-decoration:none;box-sizing:border-box !important;width:100% !important;display:block;text-align:center}hr{float:left;clear:both;width:95%;border:1px hsl(207,100%,90%) dotted;margin:10px}.bluecat{background:hsla(207,30%,92%,1)}.pinkcat{background:hsla(327,30%,92%,1)}.greencat{background:hsla(134,30%,92%,1)}.yellowcat{background:hsla(58,45%,92%,1)}#alt_lang{width:100%;position:fixed;top:-200px;left:0;z-index:10000;background:white;border-bottom:solid10pxhsl(207,100%,85%);padding:10px;text-align:center;-webkit-animation:hint_top 9scubic-bezier(0.310,0.025,0.865,0.540);animation:hint_top 9s cubic-bezier(0.310,0.025,0.865,0.540);vertical-align:middle;font-size:30px}#alt_langa{color:hsl(207,70%,65%)}#alt_langa:hover{text-decoration:none;color:black}#alt_langimg{vertical-align:middle;height:40px}@-webkit-keyframeshint_top{0% {display:block!important;position:fixed;top:0;left:0}95% {display:block!important;position:fixed;top:0;left:0}100% {display:block!important;position:fixed;top:-200px;left:0}}@keyframeshint_top{0% {display:block!important;position:fixed;top:0;left:0}95% {display:block!important;position:fixed;top:0;left:0}100% {display:block!important;position:fixed;top:-200px;left:0}}
+
+#footer_wrap{
+clear:both;
+text-align:center;
+margin:23px auto 0;
+border-top:solid 1px hsl(207,10%,30%);
+border-bottom:solid 1px hsl(207,10%,30%);
+background:hsl(207,10%,20%);
+}
+#footer_wrap	a{
+	color	:	hsl(207,50%,70%);
+}
+#footer{
+margin:0 auto;
+padding:7px 0;
+color:hsla(207,80%,100%,1);
+}
+
+.nu-sys-container
+{
+border:1px solid #eee;
+border-radius:13px;
+padding:0 0 13px 13px;
+background	:#444;
+color		:#eee;
+display		:flex;
+flex-wrap	:wrap;
+}
+
+
+.sys-nu
+{
+display:inline-block;
+text-align:center;
+margin:13px 13px 0 0;
+border-radius:13px;
+background	:#fff;
+flex:1;
+border: #fff 10px solid;
+}
+
+.sys-nu	>	a
+{
+display	:inline-block;
+padding	:12px 8px;
+text-transform	:uppercase;
+text-align:center;
+}
+
+.sys-nu	>	a	>	span
+{
+background-image:url(//fsymbols.com/images/systems.png)!important;
+display	:block;
+height	:100px;
+zoom	:0.6;
+display: inline-block;
+text-align: center;
+margin	:0 0 17px 0;
+}
+
+#sys-windows	span
+{
+width:92px
+}
+#sys-mac		span
+,#sys-apple		span
+{
+background-position:-92px 0;
+width:82px
+}
+#sys-linux		span
+{
+width:105px;
+background-position:-175px 0
+}
+#sys-android	span
+{
+width:85px;
+background-position:-280px 0
+}
+#sys-web		span
+{
+width:71px;
+background-position:-366px 0
+}
+
+
+.lined.ks
+{
+opacity		:1;
+background	:#444;
+color		:#fff;
+font-size	:30px;
+padding		:30px;
+width		:100%;
+display		:block;
+box-sizing	:border-box;
+clear		:both;
+line-height	:1;
+border-radius:13px 13px 13px 0;
+border		:none;
+}
